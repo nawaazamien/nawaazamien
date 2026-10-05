@@ -26,6 +26,7 @@ Most of my projects live in private repositories, so each one links to a public 
 
 ## Public work
 
+- **[saas-foundation](https://github.com/nawaazamien/saas-foundation)**: a multi-tenant SaaS reference implementation. React, strict TypeScript, Supabase and PostgreSQL with Row Level Security tested on real PostgreSQL, role-based access and CI. [Live demo](https://nawaazamien.github.io/saas-foundation/).
 - **[developer-portfolio](https://github.com/nawaazamien/developer-portfolio)**: the source of my portfolio site. React, TypeScript and Vite with a typed data model, static per-route SEO, tests, and a CI-gated GitHub Pages deployment. [Live site](https://nawaazamien.github.io/developer-portfolio/).
 
 ## Tech

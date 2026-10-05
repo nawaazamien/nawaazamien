@@ -2,7 +2,7 @@
 
 Software Engineer based in Cape Town, South Africa.
 
-I build production-oriented software end to end: full-stack products, multi-tenant SaaS, data-heavy backends, automation and technically complex systems. I work as a Software Engineer 1 (3+ years at my current employer, progressed from intern and associate-level work) and build independent products under Anti Social Studios.
+I build production-oriented software end to end: full-stack products, multi-tenant SaaS, data-heavy backends, automation and technically complex systems. I work as a Software Engineer 1 (4+ years at my current employer, progressed from intern and associate-level work) and build independent products under Anti Social Studios.
 
 **[Portfolio](https://nawaazamien.github.io/developer-portfolio/)** · **[Code sample: SaaS Foundation](https://github.com/nawaazamien/saas-foundation)** ([live demo](https://nawaazamien.github.io/saas-foundation/)) · [Source of the portfolio](https://github.com/nawaazamien/developer-portfolio)
 

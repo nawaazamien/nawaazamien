@@ -31,11 +31,10 @@ Most of my projects live in private repositories, so each one links to a public 
 
 ## Tech
 
-- **Frontend**: React, TypeScript, JavaScript, Vite
-- **Backend and data**: PostgreSQL, Supabase, REST APIs
+- **Frontend**: React, TypeScript, JavaScript, HTML and CSS, Vite
+- **Backend and data**: Node.js, PostgreSQL, Supabase, REST APIs, Row Level Security
 - **Engineering**: Git, GitHub Actions, CI/CD, automated testing
-- **Languages and tooling**: Python, GDScript, FFmpeg, yt-dlp
-- **Interactive**: Godot
+- **Also used**: Python for automation and research tooling; Godot and GDScript for interactive systems
 
 ## Currently building
 
